@@ -1,0 +1,76 @@
+{
+  "devices_devices": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Last Login": {
+          "href": "",
+          "value": "",
+          "timestamp": 1719631358
+        },
+        "User Agent": {
+          "href": "",
+          "value": "Instagram 337.0.2.24.92 (iPhone11,8; iOS 16_2; en_US; en; scale=2.00; 828x1792; 614064327) AppleWebKit/420+",
+          "timestamp": 0
+        }
+      }
+    },
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Last Login": {
+          "href": "",
+          "value": "",
+          "timestamp": 1660368124
+        },
+        "User Agent": {
+          "href": "",
+          "value": "Instagram 247.1.0.12.111 (iPhone10,6; iOS 15_1; en_US; en-US; scale=3.00; 1125x2436; 388767001) AppleWebKit/420+",
+          "timestamp": 0
+        }
+      }
+    },
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Last Login": {
+          "href": "",
+          "value": "",
+          "timestamp": 1648317245
+        },
+        "User Agent": {
+          "href": "",
+          "value": "Instagram 227.0.0.4.115 (iPhone10,6; iOS 15_1; en_US; en-US; scale=3.00; 1125x2436; 357667025) AppleWebKit/420+",
+          "timestamp": 0
+        }
+      }
+    },
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Last Login": {
+          "href": "",
+          "value": "",
+          "timestamp": 1583882034
+        },
+        "User Agent": {
+          "href": "",
+          "value": "Instagram 132.1.0.21.129 (iPhone9,1; iOS 13_3_1; en_US; en-US; scale=2.00; 750x1334; 202764138) AppleWebKit/420+",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}
