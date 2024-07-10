@@ -1,0 +1,13 @@
+{
+  "timestamp": 1711752636,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "ent_field_name": "IsUserOptIn",
+      "label": "Your link history status"
+    }
+  ],
+  "ent_name": "IGEntIABLinkHistoryUserSettings"
+}
