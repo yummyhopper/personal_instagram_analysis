@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Mikaela Orenstein"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1706167416970,
+      "content": "Cool",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mikaela Orenstein",
+      "timestamp_ms": 1706147161262,
+      "content": "dream toilet??",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Mikaela Orenstein",
+      "timestamp_ms": 1706147160748,
+      "content": "Mikaela sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Max Orenstein"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C1-2E8JRf2N/?id=3278295412741897613_2042291518",
+        "share_text": "Best Bathroom Tech at #CES 2024 is at the @kohler Booth! Smart Toilets with ALL the features you need. The DREAM Digital Shower with Steam, Speakers and 12 Showerheads! How about a Bathtub inspired by Japanese Forest Bathing in your home! This Tech is here now! Visit Kohler to learn more. #Kohlerpartner #ces2024",
+        "original_content_owner": "whatsinside"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1704232094782,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C1nQ-6Avt79/?carousel_share_child_media_id=3271658345949224701_31528661036",
+        "share_text": "Happy llama, sad llama, totally rad llama \u00f0\u009f\u0087\u00b5\u00f0\u009f\u0087\u00aa",
+        "original_content_owner": "max_orenstein"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Mikaela Orenstein",
+  "is_still_participant": true,
+  "thread_path": "inbox/mikaelaorenstein_893507685614152",
+  "magic_words": [
+    
+  ]
+}

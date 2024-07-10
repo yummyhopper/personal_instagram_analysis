@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "William Previdi"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William Previdi",
+      "timestamp_ms": 1702446483059,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1702443723941,
+      "content": "NOOOO",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "William Previdi"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "William Previdi",
+      "timestamp_ms": 1702443428830,
+      "content": "You're mom",
+      "share": {
+        "link": "https://instagram.com/stories/max_orenstein/3256585972579733621"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "William Previdi",
+  "is_still_participant": true,
+  "thread_path": "inbox/williamprevidi_206262801005314",
+  "magic_words": [
+    
+  ]
+}

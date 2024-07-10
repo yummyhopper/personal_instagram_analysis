@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Harry Kilberg"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harry Kilberg",
+      "timestamp_ms": 1714431071264,
+      "content": "Sorry I totally sent that to the wrong Max my bad lol",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Harry Kilberg",
+  "is_still_participant": true,
+  "thread_path": "inbox/harrykilberg_959633149001605",
+  "magic_words": [
+    
+  ]
+}

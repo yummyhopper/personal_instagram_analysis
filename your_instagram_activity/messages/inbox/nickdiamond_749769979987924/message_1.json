@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Nick Diamond"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nick Diamond",
+      "timestamp_ms": 1714235694552,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1714232357472,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nick Diamond"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C5qd4IPutdB/?id=3344617073769371457_542954614",
+        "share_text": "The \u00f0\u009f\u0090\u0090 of banking\n\n#JPM #earningsszn #stockmarket #investing #trading",
+        "original_content_owner": "stocktwits"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nick Diamond",
+      "timestamp_ms": 1702867924189,
+      "content": "Nick sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C0-nCTpNw_sbMyMVzxtqfVIf5lQeyRFXiecGXM0/?carousel_share_child_media_id=3260214862608273388_4467941803",
+        "share_text": "What",
+        "original_content_owner": "ndiamond7"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1702665541841,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/CyHE7ciMt7J/?id=3208554936798469833_26027804293",
+        "share_text": "WHAT \u00f0\u009f\u00a5\u00b2\nFollow @postmusicians \u00f0\u009f\u00a4\u0098\u00f0\u009f\u008f\u00bc\n.\n.\n\u00f0\u009f\u0093\u00b8 Carnyjared/TW & jakesucky/TW\n.\n.\n#meme #guitar #guitars #guitarist #guitarmeme #guitarmemes #music #bass #bassist #bassmemes #drum #drums #drummemes #gaming #record",
+        "original_content_owner": "postmusicians"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nick Diamond",
+  "is_still_participant": true,
+  "thread_path": "inbox/nickdiamond_749769979987924",
+  "magic_words": [
+    
+  ]
+}

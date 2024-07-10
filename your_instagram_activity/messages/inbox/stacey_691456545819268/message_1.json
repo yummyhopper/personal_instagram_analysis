@@ -1,0 +1,159 @@
+{
+  "participants": [
+    {
+      "name": "stacey"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "stacey",
+      "timestamp_ms": 1702786561693,
+      "content": "fuks maybe i\u00e2\u0080\u0099ll have to do a trip there as well at some point",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Max Orenstein"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1702771611445,
+      "content": "I\u00e2\u0080\u0099m excited",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1702771607382,
+      "content": "New destination",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "stacey",
+      "timestamp_ms": 1702754516944,
+      "content": "do u guys go there often or is it just a new destination",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "stacey",
+      "timestamp_ms": 1702754501866,
+      "content": "wait that\u00e2\u0080\u0099s sick. gonna b so nice",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1702678298798,
+      "content": "Going to Peru w my fam",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "stacey",
+      "timestamp_ms": 1702661341746,
+      "content": "what\u00e2\u0080\u0099s ur plans for winter break",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "stacey",
+      "timestamp_ms": 1702661328915,
+      "content": "jealous tbh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1702594772145,
+      "content": "I just finished my last one so I\u00e2\u0080\u0099m basically done",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "stacey",
+      "timestamp_ms": 1702588600276,
+      "content": "pretty good. one more final left monday. just grinding for that rn wbu",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1702586710189,
+      "content": "How\u00e2\u0080\u0099s ur sem goin",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1702586699315,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "stacey",
+      "timestamp_ms": 1702585876574,
+      "content": "find another one",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "stacey",
+      "timestamp_ms": 1702585870902,
+      "content": "watevs",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "stacey",
+      "timestamp_ms": 1702585867461,
+      "content": "hein i give up",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1702579159403,
+      "content": "Someone just offered 6.58 \u00f0\u009f\u0098\u00ac",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "stacey",
+      "timestamp_ms": 1702542866622,
+      "content": "6.57",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "stacey",
+      "timestamp_ms": 1702542862789,
+      "content": "fuk it",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "stacey",
+      "timestamp_ms": 1702542858216,
+      "content": "6.50???",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "stacey",
+      "timestamp_ms": 1702542834686,
+      "content": "fuks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1702530683301,
+      "content": "Someone already offered $6 \u00f0\u009f\u0098\u00ac",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "stacey",
+      "timestamp_ms": 1702522880880,
+      "content": "$5 take it or leave it",
+      "share": {
+        "link": "https://instagram.com/stories/max_orenstein/3257318108131638912"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "stacey",
+  "is_still_participant": true,
+  "thread_path": "inbox/stacey_691456545819268",
+  "magic_words": [
+    
+  ]
+}

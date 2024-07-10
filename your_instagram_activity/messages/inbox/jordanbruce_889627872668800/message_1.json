@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Jordan Bruce"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1703630783461,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C1VWErVLJuz/?carousel_share_child_media_id=3266614183154457523_31528661036",
+        "share_text": "Great friends, a bit o booze, and some damn good cheese.",
+        "original_content_owner": "max_orenstein"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jordan Bruce",
+  "is_still_participant": true,
+  "thread_path": "inbox/jordanbruce_889627872668800",
+  "magic_words": [
+    
+  ]
+}

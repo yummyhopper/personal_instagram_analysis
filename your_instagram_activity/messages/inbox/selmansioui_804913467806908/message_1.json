@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Selma Nsioui"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Selma Nsioui",
+      "timestamp_ms": 1698452666863,
+      "content": "When r y\u00e2\u0080\u0099all leaving",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Selma Nsioui",
+      "timestamp_ms": 1698430835706,
+      "content": "Yeah I\u00e2\u0080\u0099ll stop by",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1698375728832,
+      "content": "Him and I will be hosting at chap",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Selma Nsioui",
+      "timestamp_ms": 1698375715464,
+      "content": "Haha yes he was in my orgo class",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0094\u00a5",
+          "actor": "Max Orenstein"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1698375699910,
+      "content": "Do u know David Park?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Selma Nsioui",
+      "timestamp_ms": 1698371319302,
+      "content": "Still figuring it out, what did u have in mind",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Selma Nsioui",
+      "timestamp_ms": 1698371311616,
+      "content": "Yay",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1698370665419,
+      "content": "I was just going to ask if u have pre plans",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1698370624380,
+      "content": "Yerp",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Selma Nsioui",
+      "timestamp_ms": 1698352563456,
+      "content": "R u",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Selma Nsioui",
+      "timestamp_ms": 1698352562226,
+      "content": "Yes!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1698180894114,
+      "content": "Hey, ur going to magic gardens right?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Selma Nsioui",
+  "is_still_participant": true,
+  "thread_path": "inbox/selmansioui_804913467806908",
+  "magic_words": [
+    
+  ]
+}

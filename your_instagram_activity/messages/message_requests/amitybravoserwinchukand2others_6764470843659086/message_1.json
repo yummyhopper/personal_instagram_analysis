@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Amity Bravo"
+    },
+    {
+      "name": "Max Orenstein"
+    },
+    {
+      "name": "S"
+    },
+    {
+      "name": "Erwin Chuk"
+    },
+    {
+      "name": "Chandler Cook"
+    },
+    {
+      "name": "Instagram User"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1710019355256,
+      "content": "Hello dear friends, congratulations on becoming our invitee, now short term trading allows you to use your money more flexibly, with an expected monthly return of 200-600%. If you are interested in investing, please click on the link below to enter the WhatsApp discussion group https://chat.whatsapp.com/BkTsXDC5mdeKEf0NPs8pbt\ntrust me, this will open a new world for you!",
+      "share": {
+        "link": "https://chat.whatsapp.com/BkTsXDC5mdeKEf0NPs8pbt",
+        "share_text": "WhatsApp Group Invite"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1710019352959,
+      "content": "A contact created the group.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Amity Bravo, S, Erwin Chuk and 2 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/amitybravoserwinchukand2others_6764470843659086",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

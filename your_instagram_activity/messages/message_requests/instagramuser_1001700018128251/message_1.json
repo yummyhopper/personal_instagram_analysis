@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1720430713853,
+      "content": "Hello Max",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1001700018128251",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

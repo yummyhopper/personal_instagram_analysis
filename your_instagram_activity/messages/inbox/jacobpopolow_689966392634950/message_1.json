@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Jacob Popolow"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1718674397241,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7uFdcNgpKm/?id=3381664383590634150_63984292887",
+        "share_text": "No problem! Here\u00e2\u0080\u0099s the information about the Mercedes CLR GTR:\nThe Mercedes CLR GTR is a remarkable racing car celebrated for its outstanding performance and sleek design. Powder by a potent 6.0-liter V12 engine, it delivers over 600 horsepower.\nAcceleration from 0 to 100km/h takes approximately 3.7 seconds, with a remarkable top speed surpassing 320km/h.\nIncorporation advanced aerodynamic features and cutting-edge stability technologies, the CIR GTR ensures exceptional stability and control, particularly during high-speed maneuvers.\nOriginally priced around $1.5 million, the Mercedes CLR GTR is considered one of the most exclusive and prestigious racing cars ever produced. \nIts limited production run of just five units adds to its rarity, making it highly sought after by racing enthusiasts and collectors worldwide.",
+        "original_content_owner": "brog1942"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Jacob Popolow",
+      "timestamp_ms": 1715104702865,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1715102944428,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jacob Popolow"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C3bFu2vI5rt/?id=3304259961707797229_61965573427",
+        "share_text": "That's what winning is\u00f0\u009f\u0097\u00bf\u00f0\u009f\u0092\u00aa\n-\nFollow @ultimategrindset\nFollow @ultimategrindset\nFollow @ultimategrindset\n-\n#gym #memes #fitness #bodybuilding #reels",
+        "original_content_owner": "ultimategrindset"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Jacob Popolow",
+  "is_still_participant": true,
+  "thread_path": "inbox/jacobpopolow_689966392634950",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "participants": [
+    {
+      "name": "Abdullah Gackou"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abdullah Gackou",
+      "timestamp_ms": 1712897026747,
+      "content": "Bet",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1712896861637,
+      "content": "Cool, well lmk if ur in Philly this summer. I\u00e2\u0080\u0099m down to link.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abdullah Gackou",
+      "timestamp_ms": 1712877735753,
+      "content": "Yeah I\u00e2\u0080\u0099m looking for an internship and might have to go between New York and Philly for some",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1712877698329,
+      "content": "Gonna be in Philly this summer tho",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1712877690014,
+      "content": "Wherever I get a job",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1712877684239,
+      "content": "Yea same lol",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abdullah Gackou",
+      "timestamp_ms": 1712871328080,
+      "content": "I think so but I\u00e2\u0080\u0099m willing to go anywhere for work. What about you",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1712854947377,
+      "content": "R u going to stay around Philly",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abdullah Gackou",
+      "timestamp_ms": 1712795642687,
+      "content": "Just work in all honesty",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1712794443945,
+      "content": "Got any plans after graduation?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1712794433415,
+      "content": "Yea lmao",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abdullah Gackou",
+      "timestamp_ms": 1712782287798,
+      "content": "Chilling fr bout to finish junior year at Penn state. Ready to graduate \u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1712780109490,
+      "content": "Hbu",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1712780104761,
+      "content": "Boutta finish my junior year at Penn",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1712780076442,
+      "content": "Good",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Abdullah Gackou",
+      "timestamp_ms": 1712756936922,
+      "content": "Nothing much how have you been",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1712756564696,
+      "content": "What\u00e2\u0080\u0099s up bro",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Abdullah Gackou",
+  "is_still_participant": true,
+  "thread_path": "inbox/abdullahgackou_949111013387152",
+  "magic_words": [
+    
+  ]
+}

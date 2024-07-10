@@ -1,0 +1,109 @@
+{
+  "participants": [
+    {
+      "name": "David Park"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1718762675803,
+      "content": "Chill bro \u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "David Park",
+      "timestamp_ms": 1718743771198,
+      "content": "David sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C5g_i7Sx8KF/?id=3341950400567165573_9449811014",
+        "share_text": "Perchance\u00f0\u009f\u00a4\u00a8 #meme #insta #funny #viral",
+        "original_content_owner": "itss.xanx"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "David Park",
+      "timestamp_ms": 1718743749959,
+      "content": "David sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C7o6UYCM_kQ/?carousel_share_child_media_id=3380207997655635723_54256928193",
+        "share_text": "",
+        "original_content_owner": "imbasedman"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1718515006208,
+      "content": "O Ard",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "David Park",
+      "timestamp_ms": 1718405502843,
+      "content": "I love u tho",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "David Park",
+      "timestamp_ms": 1718405497466,
+      "content": "Bro why u got ops",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "David Park",
+      "timestamp_ms": 1718405489404,
+      "content": "David sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7ff4kMoO18/?id=3377558472150281596_3039447614",
+        "share_text": "give no explanation",
+        "original_content_owner": "themaxdiaz"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1703641622656,
+      "content": "\u00f0\u009f\u0093\u00a0\u00f0\u009f\u0093\u00a0\u00f0\u009f\u0093\u00a0",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "David Park",
+      "timestamp_ms": 1703636738177,
+      "content": "This is the feeling i was describing when eating cheese at yo crib",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "David Park",
+      "timestamp_ms": 1703636737935,
+      "content": "David sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/CzjYp7lCyLT/?id=3234537391969215187_62920205617",
+        "share_text": "Get your mini printer now\u00e2\u0080\u00bc\u00ef\u00b8\u008fLink in bio.\n#study#exam#studying#student#nnn#edging#funny#fyp",
+        "original_content_owner": "printnestmini"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1703630782861,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C1VWErVLJuz/?carousel_share_child_media_id=3266614183154457523_31528661036",
+        "share_text": "Great friends, a bit o booze, and some damn good cheese.",
+        "original_content_owner": "max_orenstein"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "David Park",
+  "is_still_participant": true,
+  "thread_path": "inbox/davidpark_682271096737813",
+  "magic_words": [
+    
+  ]
+}

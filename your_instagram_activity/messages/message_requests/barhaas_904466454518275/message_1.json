@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Bar Haas"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bar Haas",
+      "timestamp_ms": 1705868987431,
+      "content": "How u been",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Bar Haas",
+  "is_still_participant": true,
+  "thread_path": "message_requests/barhaas_904466454518275",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

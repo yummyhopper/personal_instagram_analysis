@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sophie Brown"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sophie Brown",
+      "timestamp_ms": 1690665788955,
+      "content": "Hey Max! It\u00e2\u0080\u0099s Sophie with LVIN. I wanted to reach out because I am looking for a member in sae at UPenn to run our Cabo 2024 Spring Break trip. As an ambassador, you\u00e2\u0080\u0099ll receive the trip completely paid for as well as many other great perks :) We would love to get your friends involved in our epic program! I went on the last trip to Cabo with the company and that trip included artists that we had booked and have current relations with such as DIPLO, John Summit, Fisher, Gryffin, Lil Jon, and Whethan. I had this position last year at UT and now work with the company as a sales recruiter, and it\u00e2\u0080\u0099s an absolute blast!! Looking to hear back from you and please let me know if you have any questions. Thanks!",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Sophie Brown",
+  "is_still_participant": true,
+  "thread_path": "message_requests/sophiebrown_1235087351224840",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

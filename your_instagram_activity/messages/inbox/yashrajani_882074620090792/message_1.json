@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "YASH RAJANI"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1702530640227,
+      "content": "Ask and u shall receive",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "YASH RAJANI",
+      "timestamp_ms": 1702524518950,
+      "content": "Dude I\u00e2\u0080\u0099ve been looking for one",
+      "share": {
+        "link": "https://instagram.com/stories/max_orenstein/3257318108131638912"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "YASH RAJANI",
+  "is_still_participant": true,
+  "thread_path": "inbox/yashrajani_882074620090792",
+  "magic_words": [
+    
+  ]
+}

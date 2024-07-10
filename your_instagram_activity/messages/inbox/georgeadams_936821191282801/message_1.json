@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "George Adams"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "George Adams",
+      "timestamp_ms": 1717132099876,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "George Adams",
+      "timestamp_ms": 1717132097501,
+      "content": "Fuck off",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1717127756209,
+      "content": "Say wut",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "George Adams",
+      "timestamp_ms": 1710893924142,
+      "content": "George sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4tjlxIs6PU/",
+        "share_text": "The Russian government banned a Penn professor and five Penn affiliates from entering its territory, according to a March 14 press release from the Russian Federation.\u00e2\u0081\u00a0\n\u00e2\u0081\u00a0\nProfessor of Russian and Eastern European Studies Mitchell Orenstein and five Penn alumni were on the list of 227 Americans banned from entering Russian territory. The ban applies to people involved in \u00e2\u0080\u009cconceiving, carrying out and justifying the anti-Russia policy adopted by the current administration of the United States\u00e2\u0080\u009d and Americans \u00e2\u0080\u009cdirectly involved in anti-Russia undertakings,\u00e2\u0080\u009d according to the press release.\u00e2\u0081\u00a0\n\u00e2\u0081\u00a0\nThe ban was implemented \u00e2\u0080\u009cto make sure that Washington understands the simple truth that any aggressive move will not go unpunished and will face a resolute response,\u00e2\u0080\u009d according to the press release.\u00e2\u0081\u00a0\n\u00e2\u0081\u00a0\nRead more about how a Penn professor and alumni are implicated in this move by the Russian government at the link in our bio.\u00e2\u0081\u00a0\n\u00e2\u0081\u00a0\nReporter: @kat.bart\u00e2\u0081\u00a0\nPhoto: Courtesy of Penn Today",
+        "original_content_owner": "dailypenn"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "George Adams",
+  "is_still_participant": true,
+  "thread_path": "inbox/georgeadams_936821191282801",
+  "magic_words": [
+    
+  ]
+}

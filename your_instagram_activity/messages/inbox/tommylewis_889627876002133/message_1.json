@@ -1,0 +1,109 @@
+{
+  "participants": [
+    {
+      "name": "Tommy Lewis"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tommy Lewis",
+      "timestamp_ms": 1714963141600,
+      "content": "\u00f0\u009f\u00a4\u00a1",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1714956325031,
+      "content": "Sorry he can\u00e2\u0080\u0099t handle a little contact",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1714956313753,
+      "content": "Brunson is the only player in the league with a better whistle than Embiid",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tommy Lewis",
+      "timestamp_ms": 1714926307397,
+      "content": "This scumbag is your mvp?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tommy Lewis",
+      "timestamp_ms": 1714926307179,
+      "content": "Tommy sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C6XMlC1sW08/?id=3357207369455070524_8132005040",
+        "share_text": "I couldn\u00e2\u0080\u0099t name a DIRTIER player than Joel Embiid!\u00f0\u009f\u00a4\u00a6\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f\u00f0\u009f\u0098\u00ad\nFollow @nbafailz for more!",
+        "original_content_owner": "nbafailz"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tommy Lewis",
+      "timestamp_ms": 1712931580318,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1712897122594,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Tommy Lewis"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C5d2SXosHdB/?id=3341065255419672385_8229946596",
+        "share_text": "Ghazaal Part 2. By @isthebruce",
+        "original_content_owner": "isthebruce"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tommy Lewis",
+      "timestamp_ms": 1710104460805,
+      "content": "Tommy sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4WRohAp6WuJ2mgk-Srk1VZFogb1yKsxI0mciQ0/?carousel_share_child_media_id=3320919326246544814_254484234",
+        "share_text": "Designated translator",
+        "original_content_owner": "tlewis_17"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tommy Lewis",
+      "timestamp_ms": 1709961184236,
+      "content": "Tommy sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C3_mIJcrObK/?id=3314535536435979978_4018089778",
+        "share_text": "intankavel",
+        "original_content_owner": "filomoderna"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1703630783683,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C1VWErVLJuz/?carousel_share_child_media_id=3266614183154457523_31528661036",
+        "share_text": "Great friends, a bit o booze, and some damn good cheese.",
+        "original_content_owner": "max_orenstein"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Tommy Lewis",
+  "is_still_participant": true,
+  "thread_path": "inbox/tommylewis_889627876002133",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "jude parkhill"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1702482326754,
+      "content": "Yo facts",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "jude parkhill",
+      "timestamp_ms": 1702454779422,
+      "content": "jude sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CxzMiKut8rP/",
+        "share_text": "",
+        "original_content_owner": "visionsfromthevoid3"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "jude parkhill",
+  "is_still_participant": true,
+  "thread_path": "inbox/judeparkhill_540862457545345",
+  "magic_words": [
+    
+  ]
+}

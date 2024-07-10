@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Chris Capiola"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chris Capiola",
+      "timestamp_ms": 1702250100703,
+      "content": "Chris sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C0sMoKnPUwy/?carousel_share_child_media_id=3255032167414975538_1702226441",
+        "share_text": "The lads gave me a return offer, somehow.",
+        "original_content_owner": "chriscapiola"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Chris Capiola",
+  "is_still_participant": true,
+  "thread_path": "inbox/chriscapiola_880482956916625",
+  "magic_words": [
+    
+  ]
+}

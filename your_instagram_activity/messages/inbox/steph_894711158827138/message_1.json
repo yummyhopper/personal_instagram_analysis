@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "steph"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1704427708498,
+      "content": "I\u00e2\u0080\u0099ll stay on the lookout",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "steph",
+      "timestamp_ms": 1704426377311,
+      "content": "i don\u00e2\u0080\u0099t think i met any",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1704423920472,
+      "content": "I\u00e2\u0080\u0099ve never met one I\u00e2\u0080\u0099m kinda scared",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1704423908670,
+      "content": "Are there lots of Mormons",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "steph",
+      "timestamp_ms": 1704421557427,
+      "content": "it\u00e2\u0080\u0099s so nice you\u00e2\u0080\u0099ll have a good time!!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1704419405065,
+      "content": "That\u00e2\u0080\u0099s where I\u00e2\u0080\u0099m going",
+      "share": {
+        "link": "https://instagram.com/stories/stephskinnerr/3273135219862571265"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "steph",
+  "is_still_participant": true,
+  "thread_path": "inbox/steph_894711158827138",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Wendy Liu"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1712333125573,
+      "content": "What have u seen in Philadelphia so far?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Wendy Liu",
+      "timestamp_ms": 1712274017257,
+      "content": "More of a sightseer myself haha",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Wendy Liu",
+      "timestamp_ms": 1712273998110,
+      "content": "Totally! Stunning place!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1712273318589,
+      "content": "I\u00e2\u0080\u0099ve been there, it\u00e2\u0080\u0099s super nice but I\u00e2\u0080\u0099m not a big hiker tbh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Wendy Liu",
+      "timestamp_ms": 1712267833470,
+      "content": "I would love to hear your suggestions for hiking if you are interested.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Wendy Liu",
+      "timestamp_ms": 1712267801856,
+      "content": "Have you ever been to The Wissahickon Valley Park?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Wendy Liu",
+      "timestamp_ms": 1712267742818,
+      "content": "I am planning to go hiking this weekend.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Wendy Liu",
+      "timestamp_ms": 1712267638283,
+      "content": "It was great! Thanks for asking.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1712094179923,
+      "content": "How was your teusday?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1712094157999,
+      "content": "Hi Simin, nice to meet you too!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Wendy Liu",
+      "timestamp_ms": 1712092267240,
+      "content": "Like your T-shirt today!",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Wendy Liu",
+      "timestamp_ms": 1712092186949,
+      "content": "Hi! I am Simin. Nice to meet you.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Wendy Liu",
+  "is_still_participant": true,
+  "thread_path": "inbox/wendyliu_944848270480093",
+  "magic_words": [
+    
+  ]
+}

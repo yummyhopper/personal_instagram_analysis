@@ -1,0 +1,44 @@
+{
+  "checkout_saved_products": [
+    {
+      "string_map_data": {
+        "Product Name": {
+          "value": "Beet Roman Emperor | Desert Sand"
+        },
+        "Merchant Name": {
+          "value": "3dmuckychris"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Product Name": {
+          "value": "Beet Bust | Howard Stern | 1:1 Lifesize"
+        },
+        "Merchant Name": {
+          "value": "3dmuckychris"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Product Name": {
+          "value": "Limited Edition Red Mirror Flip-Up Lens Round Circle Django Sunglasses"
+        },
+        "Merchant Name": {
+          "value": "sunglass.la"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Product Name": {
+          "value": "Von Dutch Logo Men's Warm Long Sleeve Classic Style Flannel Shirt"
+        },
+        "Merchant Name": {
+          "value": "whatyoulikebuy"
+        }
+      }
+    }
+  ]
+}

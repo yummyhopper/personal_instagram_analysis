@@ -1,0 +1,123 @@
+{
+  "participants": [
+    {
+      "name": "Hallie \u00f0\u009f\u00a6\u008b"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hallie \u00f0\u009f\u00a6\u008b",
+      "timestamp_ms": 1720401301484,
+      "content": "Hallie sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Max Orenstein"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C8-VXUrSgPs/?id=3404252330064479212_12988807",
+        "share_text": "Bula!! Welcome to Fiji where the tigers are WILD. Best birthday present I could have asked for @sharkgirlmadison #fijiSharks #tigershark",
+        "original_content_owner": "tannerunderwater"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hallie \u00f0\u009f\u00a6\u008b",
+      "timestamp_ms": 1720400361179,
+      "content": "https://www.instagram.com/otherworld.philly?igsh=OHI2Ymp4cWF2YnNq",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hallie \u00f0\u009f\u00a6\u008b",
+      "timestamp_ms": 1720400360962,
+      "content": "Hallie sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/otherworld.philly",
+        "profile_share_username": "otherworld.philly",
+        "profile_share_name": "Otherworld Philadelphia"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hallie \u00f0\u009f\u00a6\u008b",
+      "timestamp_ms": 1717163396755,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1717032748271,
+      "content": "I\u00e2\u0080\u0099ll get u Starbucks tomorrow if you\u00e2\u0080\u0099re still free",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Hallie \u00f0\u009f\u00a6\u008b"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1717032731369,
+      "content": "Lmao",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hallie \u00f0\u009f\u00a6\u008b",
+      "timestamp_ms": 1717027410893,
+      "content": "I just want Starbucks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hallie \u00f0\u009f\u00a6\u008b",
+      "timestamp_ms": 1717027405257,
+      "content": "Boo",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hallie \u00f0\u009f\u00a6\u008b",
+      "timestamp_ms": 1717027403146,
+      "content": ":(",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1717004746041,
+      "content": "Positive vibes and words of encouragement is the best I\u00e2\u0080\u0099ve got",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1717004671524,
+      "content": "Hell naw \u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Hallie \u00f0\u009f\u00a6\u008b",
+      "timestamp_ms": 1717002435348,
+      "content": "Can I get one of the back too rlly rough day \u00f0\u009f\u00a5\u00b9",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1717001093816,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1715970358365,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Hallie \u00f0\u009f\u00a6\u008b",
+  "is_still_participant": true,
+  "thread_path": "inbox/hallie_971028334528753",
+  "magic_words": [
+    
+  ]
+}

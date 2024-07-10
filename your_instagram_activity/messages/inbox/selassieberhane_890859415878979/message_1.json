@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Selassie Berhane"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Selassie Berhane",
+      "timestamp_ms": 1703822767776,
+      "content": "Double like",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Selassie Berhane",
+      "timestamp_ms": 1703822763494,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1703817058547,
+      "content": "2 for DFMO 3 for Intimacy 4 for Assault charges",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Selassie Berhane"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Selassie Berhane",
+      "timestamp_ms": 1703809368484,
+      "content": "How many beers",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Selassie Berhane",
+      "timestamp_ms": 1703809368370,
+      "content": "Selassie sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C1UGV7lLRAS/?carousel_share_child_media_id=3266263520155279595_1431724849",
+        "share_text": "",
+        "original_content_owner": "pubity"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Selassie Berhane",
+  "is_still_participant": true,
+  "thread_path": "inbox/selassieberhane_890859415878979",
+  "magic_words": [
+    
+  ]
+}

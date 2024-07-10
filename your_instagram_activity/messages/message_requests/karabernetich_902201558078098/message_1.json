@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "kara bernetich"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "kara bernetich",
+      "timestamp_ms": 1705556638401,
+      "content": "hi I think I found ur wallet at smokes",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "kara bernetich",
+  "is_still_participant": true,
+  "thread_path": "message_requests/karabernetich_902201558078098",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Myrle._hejPoole"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Myrle._hejPoole",
+      "timestamp_ms": 1709168750374,
+      "content": "I just got my @chxx.tree sneakers and I\u00e2\u0080\u0099m thrilled with how they look. People, you can\u00e2\u0080\u0099t believe how good they are, I\u00e2\u0080\u0099ve had the original balenciagas before and honestly you can\u00e2\u0080\u0099t tell the difference between them and the replicas. Try it, this is amazing \u00f0\u009f\u0099\u0080",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Myrle._hejPoole",
+      "timestamp_ms": 1709168750057,
+      "content": "Myrle._hejPoole sent an attachment.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Myrle._hejPoole",
+  "is_still_participant": true,
+  "thread_path": "message_requests/myrle_hejpoole_926286942336226",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

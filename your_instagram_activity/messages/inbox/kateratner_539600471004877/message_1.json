@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Kate Ratner"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kate Ratner",
+      "timestamp_ms": 1693777063493,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1693776739203,
+      "content": "I\u00e2\u0080\u0099m still goin",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Kate Ratner"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1693776731989,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Kate Ratner",
+      "timestamp_ms": 1693762422449,
+      "content": "Slay I made it through one day of training and quit",
+      "share": {
+        "link": "https://instagram.com/stories/max_orenstein/3183830825194893528"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Kate Ratner",
+  "is_still_participant": true,
+  "thread_path": "inbox/kateratner_539600471004877",
+  "magic_words": [
+    
+  ]
+}

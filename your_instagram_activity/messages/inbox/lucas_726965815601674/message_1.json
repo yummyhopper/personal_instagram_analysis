@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Lucas"
+    },
+    {
+      "name": "Max Orenstein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Max Orenstein",
+      "timestamp_ms": 1702439800906,
+      "content": "Do u have",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Lucas",
+      "timestamp_ms": 1702438880062,
+      "content": "\u00f0\u009f\u00a6\u00a7",
+      "share": {
+        "link": "https://instagram.com/stories/max_orenstein/3256585972579733621"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Lucas",
+  "is_still_participant": true,
+  "thread_path": "inbox/lucas_726965815601674",
+  "magic_words": [
+    
+  ]
+}

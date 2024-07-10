@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Max Orenstein"
+    },
+    {
+      "name": "Nicole Bee"
+    },
+    {
+      "name": "Cleverwolfe"
+    },
+    {
+      "name": "jennida chase"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Caramel crumbs"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1711502716684,
+      "content": "Dear friends! Congratulations on becoming our invitee, you are now invited to join the (cryptocurrency) discussion group created by a team of international financial analysts. In the discussion group we share daily trading signals and investment news about cryptocurrencies and teach you how to trade in the cryptocurrency market. Weekly income is around 200-600%. By joining the discussion group, you will learn more about investment expertise. If you are interested in cryptocurrencies, click on the link below to enter the WhatsApp discussion group: trust me, this will open up a new world for you (not suitable for people under 22) \nhttps://chat.whatsapp.com/GiB0Zmf3g3MHDId39DDV1P",
+      "share": {
+        "link": "https://chat.whatsapp.com/GiB0Zmf3g3MHDId39DDV1P",
+        "share_text": "WhatsApp Group Invite"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1711502715228,
+      "content": "A contact created the group.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Nicole Bee, Cleverwolfe, jennida chase and 2 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/nicolebeecleverwolfejennidachaseand2others_7553908688003844",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}
