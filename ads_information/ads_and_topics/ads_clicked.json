@@ -1,0 +1,12 @@
+{
+  "impressions_history_ads_clicked": [
+    {
+      "title": "{{product.name}}",
+      "string_list_data": [
+        {
+          "timestamp": 1720292074
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "impressions_history_recs_hidden_authors": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Username": {
+          "href": "",
+          "value": "sklumper",
+          "timestamp": 0
+        },
+        "Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1719758586
+        }
+      }
+    },
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Username": {
+          "href": "",
+          "value": "hedidntsaythis",
+          "timestamp": 0
+        },
+        "Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1716412039
+        }
+      }
+    },
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Username": {
+          "href": "",
+          "value": "mmajunkie",
+          "timestamp": 0
+        },
+        "Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1702850184
+        }
+      }
+    }
+  ]
+}
